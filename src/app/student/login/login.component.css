@@ -1,0 +1,45 @@
+.login_page{
+    margin:auto;
+    width:50%;
+    border:3px solid white;
+    top:50%;
+    -ms-transform:translateY(10%);
+    transform: translateY(10%);
+}
+
+.login-header{
+    background: turquoise;
+}
+
+.card-footer{
+    background: turquoise;
+}
+
+img.logo {
+    width: 16%;
+    border-radius: 60%;
+    border: 3px solid;
+}
+
+.logo-container {
+    margin: auto;
+    text-align: center;
+}
+
+.welcome{
+  font-size:2vw;
+}
+
+.login-form {
+    margin: auto;
+    width: 80%;
+    padding: 20px 0px;
+}
+
+a.signup {
+    float: right;
+}
+
+.footer-text{
+    font-size:1vw;
+}
